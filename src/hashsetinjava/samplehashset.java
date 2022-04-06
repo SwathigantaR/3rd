@@ -9,7 +9,7 @@ public class samplehashset {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		HashSet hs=new HashSet<>();
-		hs.add(30);
+//		hs.add(30);
 		hs.add(40);
 		hs.add('v');
 		hs.add("Hash");
