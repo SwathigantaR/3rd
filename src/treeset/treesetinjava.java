@@ -8,7 +8,7 @@ public class treesetinjava {
 		// TODO Auto-generated method stub
 		TreeSet ts= new TreeSet<>();
 		ts.add(20);
-		ts.add(20);
+// 		ts.add(20);
 		ts.add(30);
 		ts.add(50);//here treeSet is not heterogeneous 
 					//TreeSet is homogeneous and no duplicates
